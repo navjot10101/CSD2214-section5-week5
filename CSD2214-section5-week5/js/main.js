@@ -14,7 +14,6 @@ function arrays() {
     alert("Length of array is : "+i);
     */
     pens = new Array("red", "orange", "green", "blue", "purple");
-    //markers = pens;
     console.log(pens);
     console.log(pens[0]);
     var i;
